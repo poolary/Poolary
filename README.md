@@ -5,7 +5,7 @@ Sou Eduardo, desenvolvedor focado em Back-End.
 
 Atualmente estudo **C#**, com base sólida em **C++**, e estou explorando **HTML, CSS e JavaScript** para expandir meus conhecimentos e construir um bom portfólio.
 
-in english--------------------------------------------------------------------------------------------------------------------------------------------------------
+in english------
 
 Hello and welcome! :)
 
