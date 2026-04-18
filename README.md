@@ -5,7 +5,7 @@ I'm a junior backend developer from Brazil who enjoys coding and building APIs. 
 ### Skills
 
 #### ⭐ Tech Stack
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="Poolary-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Poolary-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Poolary-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  
@@ -16,7 +16,7 @@ I'm a junior backend developer from Brazil who enjoys coding and building APIs. 
 </div>
 
 #### ⭐ Development Tools
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="Poolary-Vs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="Poolary-Vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Poolary-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/>  
