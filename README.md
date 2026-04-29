@@ -10,6 +10,28 @@ I'm a junior backend developer from Brazil who enjoys coding and building APIs. 
 #### ⭐ Development Tools 
 <p>   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,figma,docker,git" />   <img height="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" /> </p> 
 
+## 📌 Featured Projects
+
+### 🔐 Register & Login API
+Authentication system with user registration and login  
+Tech: C#, ASP.NET Core, JWT
+
+### 💬 Chat / Messaging Backend
+Backend message structure and communication system  
+Tech: .NET, EF Core, MySQL
+
+## 🎯 Current Focus
+- Clean Architecture
+- JWT Authentication
+- Real-time systems
+- Backend performance
+- Microservices (learning)
+
+## 📫 Contact
+- Email: PoolarP.2007@gmail.com
+
+## 💡 Goal
+I'm looking for a Junior Backend Developer opportunity to build APIs, systems and scalable backend solutions.
 
 <div> 
   <a href="https://www.youtube.com/@PoolarProgramador" target="_blank">
