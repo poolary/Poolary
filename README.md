@@ -37,7 +37,7 @@ I'm looking for a Junior Backend Developer opportunity to build APIs, systems an
   <a href="https://www.youtube.com/@PoolarProgramador" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/dudu.wlcode/" target="_blank">
+  <a href="https://www.instagram.com/poolary_dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/mtrHvbjP" target="_blank">
